@@ -52,22 +52,24 @@ class TwitterStreamer():
 
     # Random Catch Phrase!
     catch_phrases = [
-      "What's up amigo!",
+      "Bazinga!",
       "*whispers*",
-      "Hey stupid!",
+      "Hey!",
+      "What's up.",
       "",
       "",
       "",
-      "",
-      "Hey dumbass!",
-      "Listen here you imbecile!"
+      "VSauce! Michael here.",
+      "Listen."
     ]
     #Random Body
     tweet_body = [
-      "I am from the FBI, and I have been assigned to monitor twitter users who lack common sense. The fact that I'm replying to this tweet indicates something that you should get by now. Edson over and out.",
-      "I'm from the future where everyone's turned into malnourished skinheads mainly because of the series of events that this idiotic tweet that you put out caused. I just came here to tell you that so you can maybe carefully think over the next tweets you're gonna put out.",
-      "This tweet embodies every living person in the Lizard-ruled earth in the year 2046's way of thinking, daft and counter-productive. Maybe you should learn how organize your thoughts better before tweeting. (_)_)::::::::)~~~ <--- Rocket Ship",
-      "Your desperate attempt to sound like an intellectual person by using words that no normal human being in the year 2020 uses reeks of idiocracy. How can you think that just by sounding like an overly-compensating asshole, people will actuall support you."
+      "There are around 2 billion species on Earth—with 6.8 million likely to be species of insects. And up to 10 types of bacteria lives inside of each of these insects!",
+      "The strings of string instruments were originally made from the guts of animals like sheep or lambs. Now, instrument makers have transitioned to metal wiring. But before metal, it was common for all string instruments to be made from the guts of the animals geographically available to the makers.",
+      "In about 20 years, the future could look eerily similar to Wall-E. Artificial intelligence expert Kai-Fu Lee said that 40 percent of human jobs could be replaced by equally capable robots. And drivers might be affected the most.",
+      "Water is our body's mechanical oil—without it, it can't function. You lose about 8 percent of your body water while on a flight. This is because the humidity in the climate-controlled environment can be as low as 10 to 15 percent.",
+      "Before it became sushi, that tuna could sail through the sea at lightning speed. The fastest speed a tuna can swim has been recorded at over 45 km/h or about 28 mph.",
+      "Seems like someone had a tre-moon-dous allergy problem! During the Apollo 17 mission, astronaut Harrison Schmitt found out that he had a severe reaction to moon dust."
     ]
 
     # Randomize
